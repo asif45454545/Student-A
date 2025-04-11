@@ -4,14 +4,16 @@
 }
 .hd{
     font-size: 60px;
-    background-color: lightgrey;
+    color:#ffff;
+    background-color:grey;
+    text-shadow: 5px 3px 5px black;
 }
 .d1{
     width:25%;
     background-color:navy;
     color: white;
 }
-.d1 img{
+.img{
     border:solid 2px white;
     border-radius: 50px;
 }
@@ -27,4 +29,17 @@
 .fa{
     color:#ffffff;
     text-decoration:none;
+}
+h1{
+    font-weight: bold;
+    font-style: italic;
+    text-indent: 15px;
+    text-decoration: underline;
+}
+h2{
+    text-decoration: underline;
+}
+.t1{
+    font-size: 100px;
+    text-shadow: 2px 2px 5px green;
 }
